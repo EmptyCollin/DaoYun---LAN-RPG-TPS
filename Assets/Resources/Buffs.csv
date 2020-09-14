@@ -1,0 +1,13 @@
+ID,Name,Description,InitialDuration,CoolDown,IconPath,EffectPrefabPath,FunctionPrefabPath,Damage
+101,石胎护体,周期性生成护盾抵挡一次技能,-1000,5,UI/Texture/BuffIcon/buff1,Spell&Buff/Buff1Effect,Spell&Buff/Shield,0
+102,生生不息,使用元素消耗减半,-1000,-1,UI/Texture/BuffIcon/buff2,Spell&Buff/Buff2Effect,,0
+103,行云流水,提高移动速度,-1000,-1,UI/Texture/BuffIcon/buff3,Spell&Buff/Buff3Effect,,0
+104,星火燎原,灼烧周身,-1000,3,UI/Texture/BuffIcon/buff4,Spell&Buff/Buff4Effect,Spell&Buff/FireRing,15
+105,避重就轻,获得伤害减免,-1000,-1,UI/Texture/BuffIcon/buff5,Spell&Buff/Buff5Effect,,0
+106,润物无声,逐渐恢复生命,10,1,UI/Texture/BuffIcon/buff6,Spell&Buff/Recover,,2
+107,冰晶蚀骨,移动速度减慢,5,-1,UI/Texture/BuffIcon/buff7,Spell&Buff/AddTempMat,,0
+108,举步维艰,移动速度减慢,5,-1,UI/Texture/BuffIcon/buff8,Spell&Buff/MudEffect,,0
+109,头晕眼花,不可行动,5,-1,UI/Texture/BuffIcon/buff9,Spell&Buff/Stun,,0
+110,返本还原,化身淤泥缓慢移动,4,-1,UI/Texture/BuffIcon/buff10,Spell&Buff/AddTempMat,,0
+111,此间无名,移除护体元素,0,-1,,Spell&Buff/Remove,,0
+112,此亦无名,移除护体元素，并受到一次伤害,0,-1,,Spell&Buff/Remove,,10
